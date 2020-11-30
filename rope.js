@@ -18,6 +18,7 @@ class Rope{
   
    strokeWeight(5);
    stroke("black");
+   fill("black");   
   
    var Anchor1X = pointA.x;
    var Anchor1Y = pointA.y;
